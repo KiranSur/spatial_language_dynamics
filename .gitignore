@@ -1,4 +1,3 @@
 turing_evo_repo
 .DS_store
-output_maps/normal
-output_maps/rand
+output_maps
